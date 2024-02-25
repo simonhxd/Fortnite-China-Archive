@@ -13,8 +13,8 @@ Most of these builds are useless without an ssl bypass or pak edits, which will 
 # Chapter 2
 |     Build     |   Installer   |  Direct Download |
 | ------------- |:-------------:| ------------- |
-|     11.40-CL-10951104     |  [Installer Download](https://down.qq.com/Fortnite/dltools/0002150XLK5D8GUO/RailGame_2000196_1-0.0.0.215_0_tgod_signed.exe)  |       N/A
-|     18.30-CL-17882303     |       N/A    |       [Download](https://archive.org/details/18.30-cn.-7z)|
+|     11.40-CL-10951104     |  [Installer Download](https://down.qq.com/Fortnite/dltools/0002150XLK5D8GUO/RailGame_2000196_1-0.0.0.215_0_tgod_signed.exe)  |       N/A       |
+|     18.30-CL-17882303     |       N/A    |       [Download](https://archive.org/details/18.30-cn.-7z)       |
 
 ## Misc Installers
 
@@ -32,7 +32,6 @@ Most of these builds are useless without an ssl bypass or pak edits, which will 
 ### http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.108_0_tgod_signed.exe
 ### http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.109_0_tgod_signed.exe
 ### http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.110_0_tgod_signed.exe
-### https://down.qq.com/Fortnite/dltools/0002150XLK5D8GUO/RailGame_2000196_1-0.0.0.215_0_tgod_signed.exe
 ### https://down.qq.com/Fortnite/dltools/000241nCIXLipQLu/RailGame_2000196_1-0.0.0.241_10019_tgod_signed.exe
 ### https://down.qq.com/Fortnite/dltools/000253T2YP140Vwm/RailGame_2000196_1-0.0.0.253_10019_tgod_signed.exe
 ### https://down.qq.com/Fortnite/dltools/000255ZtDgQ1hA8s/RailGame_2000196_1-0.0.0.255_10019_tgod_signed.exe
