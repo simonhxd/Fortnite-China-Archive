@@ -13,7 +13,7 @@ Most of these builds are useless without an ssl bypass or pak edits, which will 
 # Chapter 2
 |     Build     |   Installer   |  Direct Download |
 | ------------- |:-------------:| ------------- |
-|     18.30     |  Unavailable  | [Download]([https://onedrive.live.com/?authkey=%21AIWZgmez9KVNC%5FA&id=D8E6B765E05E3EC2%212744&cid=D8E6B765E05E3EC2&parId=root&parQt=sharedby&o=OneUp](https://archive.org/details/18.30-cn.-7z))|
+|     18.30     |  Unavailable  | [Download](https://archive.org/details/18.30-cn.-7z)|
 
 ## Misc Installers
 
