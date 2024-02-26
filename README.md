@@ -7,7 +7,7 @@ Most of these builds are useless without an ssl bypass or pak edits, which will 
 # Chapter 1
 |     Build     |   Installer   |  Direct Download |
 | ------------- |:-------------:| ------------- |
-|     5.10-CL-4226409      |[Installer Download](https://down.qq.com/Fortnite/dltools/0.0.0.86/Fortnite_2000196_1-0.0.0.86_20180723_1001.exe)| TBD) |
+|     5.10-CL-4226409      |[Installer Download](https://down.qq.com/Fortnite/dltools/0.0.0.86/Fortnite_2000196_1-0.0.0.86_20180723_1001.exe)| TBD |
 |     5.10-CL-4240749      |[Installer Download](https://down.qq.com/Fortnite/dltools/0.0.0.93/Fortnite_2000196_1-0.0.0.93_20180801_1009.exe)| [Download](https://drive.google.com/file/d/1OcSXucBPTIm3_nnTLX_eUb5usalsdeok/view?usp=sharing) |
 |     7.10-CL-4667012      |[Installer Download](https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.135_10018_tgod_signed.exe)| [Download](https://drive.google.com/file/d/1xAoICjEc0qVCARbh6v6xX1hq0b-yYjxU/view)|
 
