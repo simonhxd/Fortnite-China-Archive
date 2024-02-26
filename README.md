@@ -14,8 +14,8 @@ Most of these builds are useless without an ssl bypass or pak edits, which will 
 |     Build     |   Installer   |  Direct Download |
 | ------------- |:-------------:| ------------- |
 |     11.40-CL-10951104     |  [Installer Download](https://down.qq.com/Fortnite/dltools/0002150XLK5D8GUO/RailGame_2000196_1-0.0.0.215_0_tgod_signed.exe)  |        N/A|
-|     18.30-CL-17882303     |       N/A    |       [Download](https://archive.org/details/18.30-cn.-7z)|
 |     15.10-CL-14937626     |  [Installer Download](https://down.qq.com/Fortnite/dltools/000255ZtDgQ1hA8s/RailGame_2000196_1-0.0.0.255_10019_tgod_signed.exe)  |        N/A|
+|     18.30-CL-17882303     |       N/A    |       [Download](https://archive.org/details/18.30-cn.-7z)|
 
 ## Misc Installers
 Versions correlate to the url/exe name of the installer.
