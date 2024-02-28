@@ -15,6 +15,7 @@ Most of these builds are useless without an ssl bypass or pak edits, which will 
 |     Build     |   Installer   |  Direct Download |
 | ------------- |:-------------:| ------------- |
 |     11.40-CL-10951104     |  [Installer Download](https://down.qq.com/Fortnite/dltools/0002150XLK5D8GUO/RailGame_2000196_1-0.0.0.215_0_tgod_signed.exe)  |        TBD|
+|     13.40-CL-14008768     |  [Installer Download](https://down.qq.com/Fortnite/dltools/000241nCIXLipQLu/RailGame_2000196_1-0.0.0.241_10019_tgod_signed.exe)  |        TBD|
 |     15.10-CL-14937626     |  [Installer Download](https://down.qq.com/Fortnite/dltools/000255ZtDgQ1hA8s/RailGame_2000196_1-0.0.0.255_10019_tgod_signed.exe)  |        TBD|
 |     18.30-CL-17882303     |       N/A    |       [Download](https://archive.org/details/18.30-cn.-7z)|
 
@@ -47,6 +48,6 @@ If you're able to find any other installers either by editing urls or by any oth
 ### [Untested Installer v136](http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.136_10018_tgod_signed.exe)
 ### [Untested Installer v137](http://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.137_10018_tgod_signed.exe)
 ### [v215 11.40-CL-10951104](https://down.qq.com/Fortnite/dltools/0002150XLK5D8GUO/RailGame_2000196_1-0.0.0.215_0_tgod_signed.exe)
-### [Untested Installer v241](https://down.qq.com/Fortnite/dltools/000241nCIXLipQLu/RailGame_2000196_1-0.0.0.241_10019_tgod_signed.exe)
+### [v241 13.40-CL-14008768](https://down.qq.com/Fortnite/dltools/000241nCIXLipQLu/RailGame_2000196_1-0.0.0.241_10019_tgod_signed.exe)
 ### [Untested Installer v253](https://down.qq.com/Fortnite/dltools/000253T2YP140Vwm/RailGame_2000196_1-0.0.0.253_10019_tgod_signed.exe)
 ### [v255 15.10-CL-14937626](https://down.qq.com/Fortnite/dltools/000255ZtDgQ1hA8s/RailGame_2000196_1-0.0.0.255_10019_tgod_signed.exe)
