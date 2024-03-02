@@ -3,9 +3,6 @@ These builds are useless without an ssl bypass and/or pak edits, which will not 
 
 Sorry about the archive.org download times. Nothing I can really do about that.
 
-## Found Builds
-
-
 # Chapter 1
 |     Build     |   Installer   |  Direct Download |
 | ------------- |:-------------:| ------------- |
