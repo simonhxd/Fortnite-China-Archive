@@ -1,5 +1,6 @@
 # Fortnite-China-Archive
-Most of these builds are useless without an ssl bypass or pak edits, which will not be provided.
+These builds are useless without an ssl bypass and/or pak edits, which will not be provided.
+Sorry about the archive.org download times. Nothing I can really do about that.
 
 ## Found Builds
 
