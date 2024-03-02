@@ -23,6 +23,8 @@ Sorry about the archive.org download times. Nothing I can really do about that.
 |     18.30-CL-17882303     |       N/A    |       [Download](https://archive.org/details/18.30-cn.-7z)|
 
 # International 7.01
+(This is very scuffed and probably crashes alot. This is basically just a proof of concept)
+
 Prerequisites: 7.01-CL-4644078 China (v133) and a backend of your choice.
 
 Read the READ ME.txt file in the archive and follow the instructions. 
