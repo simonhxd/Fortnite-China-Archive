@@ -1,5 +1,5 @@
 # Fortnite-China-Archive
-These builds are useless without an ssl bypass and/or pak edits, which will not be provided.
+Most builds will not be provided with a way of launching except for 7.01
 
 Sorry about the archive.org download times. Nothing I can really do about that.
 
@@ -21,6 +21,16 @@ Sorry about the archive.org download times. Nothing I can really do about that.
 |     13.40-CL-14008768     |  [v241](https://down.qq.com/Fortnite/dltools/000241nCIXLipQLu/RailGame_2000196_1-0.0.0.241_10019_tgod_signed.exe)  |        TBD|
 |     15.10-CL-14937626     |  [v255](https://down.qq.com/Fortnite/dltools/000255ZtDgQ1hA8s/RailGame_2000196_1-0.0.0.255_10019_tgod_signed.exe)  |        TBD|
 |     18.30-CL-17882303     |       N/A    |       [Download](https://archive.org/details/18.30-cn.-7z)|
+
+# International 7.01
+Prerequisites: 7.01-CL-4644078 China (v133) and a backend of your choice.
+
+Read the READ ME.txt file in the archive and follow the instructions. 
+
+After extracting the files, you should be able to launch the game as normal either via the launch.bat provided or something else like Rift.
+
+[Download](https://archive.org/details/7.01-cl-4644078-international-fix.-7z)
+
 
 ## Misc Installers
 Versions correlate to the url/exe name of the installer.
