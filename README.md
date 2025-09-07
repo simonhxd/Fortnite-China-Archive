@@ -82,6 +82,9 @@ Prerequisites: 7.01-CL-4644078 China (v133) and a backend of your choice.
 
 Read the READ ME.txt file in the archive and follow the instructions. 
 
+# Special Thanks
+Special thanks to kapum1 on Discord for testing some s5 and s6 installers and AllyJax for getting some links as well.
+
 After extracting the files, you should be able to launch the game as normal either via the launch.bat provided or something else like Rift.
 
 [Download](https://archive.org/details/7.01-cl-4644078-international-fix.-7z)
