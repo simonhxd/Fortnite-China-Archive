@@ -1,5 +1,9 @@
 # Fortnite-China-Archive
 
+
+This repo isn't actively maintained. For a more updated repo check out this one https://github.com/KPMisParrot/Tencent-Fortnite-China-Archive/
+
+
 # Chapter 1
 |     Build     |   Installer   |  Direct Download |
 | ------------- |:-------------:| ------------- |
