@@ -20,6 +20,7 @@ https://github.com/KPMisParrot/Tencent-Fortnite-China-Archive/
 # Chapter 2
 |     Build     |   Installer   |  Direct Download |
 | ------------- |:-------------:| ------------- |
+|     11.01-CL-9695230      |  [v201](https://down.qq.com/Fortnite/dltools/RailGame_2000196_1-0.0.0.137_10018_tgod_signed.exe)  |        TBD|
 |     11.40-CL-10951104     |  [v215](https://down.qq.com/Fortnite/dltools/0002150XLK5D8GUO/RailGame_2000196_1-0.0.0.215_0_tgod_signed.exe)  |        TBD|
 |     13.40-CL-14008768     |  [v241](https://down.qq.com/Fortnite/dltools/000241nCIXLipQLu/RailGame_2000196_1-0.0.0.241_10019_tgod_signed.exe)  |        TBD|
 |     15.00-CL-14804700     |  [v253](https://down.qq.com/Fortnite/dltools/000253T2YP140Vwm/RailGame_2000196_1-0.0.0.253_10019_tgod_signed.exe)  |        TBD|
