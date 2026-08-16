@@ -43,6 +43,7 @@ These builds have a tendency of bluescreening on modern Windows versions, they'r
 |     11.31-CL-10760473     |  [v212](https://down.qq.com/Fortnite/dltools/000212JP1CIDUVNP/RailGame_2000196_1-0.0.0.212_0_tgod_signed.exe)| TBD |
 |     11.40-CL-10951104     |  [v215](https://down.qq.com/Fortnite/dltools/0002150XLK5D8GUO/RailGame_2000196_1-0.0.0.215_0_tgod_signed.exe)  |        TBD|
 |     12.41-CL-12905909     |  [v231](https://down.qq.com/Fortnite/dltools/000231Q7K72VFRV1/RailGame_2000196_1-0.0.0.231_0_tgod_signed.exe)| TBD |
+|     12.60-CL-13481406     |  [v234](https://down.qq.com/Fortnite/dltools/0002341G4GEZTNLW/RailGame_2000196_1-0.0.0.234_0_tgod_signed.exe)| TBD |
 |     13.40-CL-14008768     |  [v241](https://down.qq.com/Fortnite/dltools/000241nCIXLipQLu/RailGame_2000196_1-0.0.0.241_10019_tgod_signed.exe)  |        TBD|
 |     14.10-CL-14276912     |  [v244](https://down.qq.com/Fortnite/dltools/0002440dAlCCuRdr/RailGame_2000196_1-0.0.0.244_10019_tgod_signed.exe)  |        TBD|
 |     14.30-CL-14456520     |  [v246](https://down.qq.com/Fortnite/dltools/000246aiC00aIK5I/RailGame_2000196_1-0.0.0.246_10019_tgod_signed.exe)  |        TBD|
@@ -133,7 +134,7 @@ If you're able to find any other installers either by editing urls or by any oth
 ### [Untested Installer v226](https://down.qq.com/Fortnite/dltools/000226DU2KRGHFYP/RailGame_2000196_1-0.0.0.226_0_tgod_signed.exe)
 ### [12.41-CL-12905909 v231](https://down.qq.com/Fortnite/dltools/000231Q7K72VFRV1/RailGame_2000196_1-0.0.0.231_0_tgod_signed.exe)
 ### [Untested Installer v232](https://down.qq.com/Fortnite/dltools/0002327KA62Q2CJA/RailGame_2000196_1-0.0.0.232_0_tgod_signed.exe)
-### [Untested Installer v234](https://down.qq.com/Fortnite/dltools/0002341G4GEZTNLW/RailGame_2000196_1-0.0.0.234_0_tgod_signed.exe)
+### [12.60-CL-13481406 v234](https://down.qq.com/Fortnite/dltools/0002341G4GEZTNLW/RailGame_2000196_1-0.0.0.234_0_tgod_signed.exe)
 ### [Untested Installer v237](https://down.qq.com/Fortnite/dltools/0002373jMgr2z8UR/RailGame_2000196_1-0.0.0.237_0_tgod_signed.exe)
 ### [Untested Installer v239](https://down.qq.com/Fortnite/dltools/000239Pb4LOKrQRv/RailGame_2000196_1-0.0.0.239_10019_tgod_signed.exe)
 ### [13.40-CL-14008768 v241](https://down.qq.com/Fortnite/dltools/000241nCIXLipQLu/RailGame_2000196_1-0.0.0.241_10019_tgod_signed.exe)
